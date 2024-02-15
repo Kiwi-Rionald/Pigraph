@@ -1,5 +1,5 @@
-# DVP1
-A Data Visualization Project build with **h2o wave.ai**
+# Pigraph
+### A Data Visualization Project build with **h2o wave.ai**
 
 正在拓展可以上传CSV画出更多类型图像、更多样式以及更多自定义环节，
 
